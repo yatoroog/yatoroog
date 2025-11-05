@@ -189,12 +189,6 @@
 
 ###
 
-<div align="center">
-
-<img src="assets/pngwing.com (2).png" width="150" align="right" alt="bloodHand">
-
-</div>
-
 ###
 
 <h3 align="left">📊 My GitHub Statistics</h3>
