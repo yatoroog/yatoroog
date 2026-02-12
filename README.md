@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hello👋 Welcome to my Cybersecurity & Web3 Hub!</h1>
+<h1 align="center">Hello👋 Welcome to my Cybersecurity & Dev Hub!</h1>
 
 ###
 
