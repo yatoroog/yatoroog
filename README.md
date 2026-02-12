@@ -121,7 +121,7 @@
   • Apps with GUI<br>
   • etc.
 
-  Check my GoLang Pet-Projects here: [click](https://github.com/yatoroog/GoLang_Projects)
+  Check my GoLang Pet-Projects [here](https://github.com/yatoroog/GoLang_Projects)
 </p>
 
 ###
